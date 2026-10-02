@@ -1,0 +1,8 @@
+{
+  "name": "Remix MoneyMate - Personal Finance Web App",
+  "description": "Modern, responsive client-side personal finance web app with budget tracking, savings goals, transaction management, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
